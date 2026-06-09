@@ -15,9 +15,9 @@ Descrição: O sistema funciona via collab (python) pelo Ollama com o intuito de
 Abaixo estão as demonstrações reais do funcionamento do sistema Mission Control, simulando diferentes estados
 
 Cenário 1: Dados Normais
-![Status Normal](assets/print_normal1.PNG)
-![Status Normal](assets/print_normal2.PNG)
+![Status Normal](assets/print_normal1.png)
+![Status Normal](assets/print_normal2.png)
 
 Cenário 2: Estado de Alerta e Resposta da IA
-![Alerta do Sistema](assets/print_risco1.PNG)
-![Alerta do Sistema](assets/print_risco2.PNG)
+![Alerta do Sistema](assets/print_risco1.png)
+![Alerta do Sistema](assets/print_risco2.png)
